@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+D:\University\Штучний інтелект\Lab№3\lab3\lab3.cpp(67,55): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\University\Штучний інтелект\Lab№3\lab3\lab3.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab3.vcxproj -> D:\University\Штучний інтелект\Lab№3\lab3\Debug\lab3.exe
